@@ -1,2 +1,4 @@
 /Fibonacci-FFI-*
 /.build
+/ffi/Cargo.lock
+/ffi/target
